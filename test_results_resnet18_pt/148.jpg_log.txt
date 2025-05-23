@@ -1,0 +1,6 @@
+Top-K Classification Results:
+Class: 85, Score: 0.999744
+Class: 86, Score: 0.000203416
+Class: 82, Score: 2.75294e-05
+Class: 80, Score: 4.78389e-06
+Class: 20, Score: 2.90158e-06

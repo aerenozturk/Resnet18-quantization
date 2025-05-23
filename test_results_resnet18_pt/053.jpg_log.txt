@@ -1,0 +1,6 @@
+Top-K Classification Results:
+Class: 674, Score: 0.582175
+Class: 588, Score: 0.166796
+Class: 868, Score: 0.0289848
+Class: 846, Score: 0.0225734
+Class: 778, Score: 0.0175802
